@@ -29,14 +29,18 @@ su progreso hacia la obtención de su título profesional."
 
 # Integrantes y roles
 
-ntegrante	Rol	Responsabilidades
-- David Clavijo:	 Líder de Proyecto	Coordina las actividades del equipo, define los objetivos, supervisa el avance general, resuelve imprevistos y asegura el cumplimiento de las metas establecidas para el desarrollo de la página web.
-  
--Evalin Condor: Diseñador Digital	Diseña la identidad visual, crea el logo, elabora bocetos y esquemas de la interfaz, selecciona colores, estilos y organiza todos los recursos gráficos que se incluirán en el repositorio.
 
-- Lisbeht Sarabia: Documentador	Redacta toda la información técnica y descriptiva, elabora el contenido del archivo README.md, detalla las funciones, ventajas y características del proyecto, y mantiene actualizada toda la documentación escrita.
+ - David Clavijo:	 Líder de Proyecto	Coordina las actividades del equipo, define los objetivos, supervisa el avance general, resuelve imprevistos y
+  asegura el cumplimiento de las metas establecidas para el desarrollo de la página web.
   
--Laura Yasaca:	Administrador GitHub	Crea y configura el repositorio, estructura las carpetas y archivos, gestiona el control de versiones, realiza los commits, organiza el historial de cambios y administra el acceso y orden del contenido en la plataforma.
+- Evalin Condor: Diseñador Digital	Diseña la identidad visual, crea el logo, elabora bocetos y esquemas de la interfaz, selecciona colores, 
+estilos y organiza todos los recursos gráficos que se incluirán en el repositorio.
+
+- Lisbeht Sarabia: Documentador	Redacta toda la información técnica y descriptiva, elabora el contenido del archivo README.md,
+detalla las funciones, ventajas y características del proyecto, y mantiene actualizada toda la documentación escrita.
+  
+- Laura Yasaca:	Administrador GitHub	Crea y configura el repositorio, estructura las carpetas y archivos, gestiona el control de versiones,
+  realiza los commits, organiza el historial de cambios y administra el acceso y orden del contenido en la plataforma.
 
 
 
