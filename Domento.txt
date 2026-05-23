@@ -3,7 +3,7 @@
 1. Registro y gestión de asignaturas
    - Agregar las materias de tu plan de estudios.
    - Indicar el estado de cada asignatura: aprobada, en curso, pendiente o reprobrada.
-   - Ver cuánto llevas avanzado en tu malla curricular (porcentaje completado).
+   - Ver cuánto llevas avanzado en tu malla curricular de tu carrera
 
 2. Calendario académico integrado
    - Asignar horarios de clases a cada materia.
@@ -26,7 +26,7 @@
    - Identificar qué materias están en riesgo o con bajo rendimiento.
 
 6. Perfil de usuario
-   - Guardar tus datos (nombre, carrera, semestre, jornada).
+   - Guardar tus datos como nombre del estudiante ,carrera, semestre que esta cursando , jornada.
    - Guardar tus preferencias de horario y forma de estudiar.
    - Descargar o exportar un resumen de tu avance académico.
 
@@ -35,7 +35,7 @@
 
 1. Toda la información en un solo lugar
    - Tienes tus datos académicos y personales organizados en una sola herramienta.
-   - Dejas de usar muchas apps, agendas físicas y notas sueltas.
+   - Dejas de usar agendas físicas y notas sueltas.
 
 2. Más organización y menos estrés
    - Te ayuda a planificar mejor tu semana y llevar el control de tus tareas.
@@ -61,7 +61,7 @@
 # Posibles mejoras futuras
 
 1. Conexión con la universidad
-   - Importar datos de los sistemas académicos (SIU, SIGE, etc.) de forma automática.
+   - Importar datos de los sistemas académicos como el SIGEA de forma automática.
    - Sincronizar horarios y calificaciones con la plataforma oficial de la universidad.
 
 2. Trabajo en grupo
@@ -87,4 +87,4 @@
 
 7. Más personalización
    - Cambiar el tema de colores a un color mas sueve mas elejamte el beige , blaco perla , celeste , entre otros colores 
-   - Plantillas de horario para periodos especiales (finales intensivos, preparación de exámenes, etc.).
+   - Plantillas de horario para periodos especiales como los finales intensivos y la preparación de exámenes 
