@@ -1,0 +1,90 @@
+# Funciones principales
+
+1. Registro y gestión de asignaturas
+   - Agregar las materias de tu plan de estudios.
+   - Indicar el estado de cada asignatura: aprobada, en curso, pendiente o reprobrada.
+   - Ver cuánto llevas avanzado en tu malla curricular (porcentaje completado).
+
+2. Calendario académico integrado
+   - Asignar horarios de clases a cada materia.
+   - Programar fechas de exámenes, quices, entregas de trabajos y actividades académicas.
+   - Recibir recordatorios y notificaciones para eventos importantes.
+
+3. Gestión de tiempo y rutina
+   - Crear bloques de estudio diarios o semanales según tu carga de materias.
+   - Planificar tiempos de descanso y actividades personales.
+   - Evitar que los horarios de clases, actividades académicas y personales se crucen.
+
+4. Visualización clara y sencilla
+   - Ver el horario semanal y mensual en un calendario.
+   - Usar tablas o gráficos para ver tu avance por semestre o por asignatura.
+   - Tener un panel con tareas pendientes y próximos eventos del día.
+
+5. Registro de notas y seguimiento
+   - Ingresar las notas parciales de cada asignatura.
+   - Calcular promedios y estimar la nota final aproximada.
+   - Identificar qué materias están en riesgo o con bajo rendimiento.
+
+6. Perfil de usuario
+   - Guardar tus datos (nombre, carrera, semestre, jornada).
+   - Guardar tus preferencias de horario y forma de estudiar.
+   - Descargar o exportar un resumen de tu avance académico.
+
+
+# Ventajas
+
+1. Toda la información en un solo lugar
+   - Tienes tus datos académicos y personales organizados en una sola herramienta.
+   - Dejas de usar muchas apps, agendas físicas y notas sueltas.
+
+2. Más organización y menos estrés
+   - Te ayuda a planificar mejor tu semana y llevar el control de tus tareas.
+   - Disminuye los olvidos y la sobrecarga al organizarte con anticipación.
+
+3. Seguimiento claro del avance
+   - Ves a simple vista qué materias ya aprobaste, cuáles tienes en curso y cuáles faltan.
+   - Te apoya a planificar tu siguiente semestre según tu malla.
+
+4. Estudio y vida personal en equilibrio
+   - Puedes reservar tiempo para descansar y hacer actividades personales.
+   - Fomenta hábitos de estudio más ordenados y saludables.
+
+5. Fácil de usar y accesible
+   - La interfaz es sencilla y pensada para estudiantes sin mucha experiencia técnica.
+   - Puedes usarla en computadora, tablet o celular sin problemas.
+
+6. Enfoque que ayuda a mejorar
+   - Detectas rápidamente las materias donde te va peor para poder trabajarlas.
+   - Te facilita decidir si conviene retirarte o cambiar de horario.
+
+
+# Posibles mejoras futuras
+
+1. Conexión con la universidad
+   - Importar datos de los sistemas académicos (SIU, SIGE, etc.) de forma automática.
+   - Sincronizar horarios y calificaciones con la plataforma oficial de la universidad.
+
+2. Trabajo en grupo
+   - Crear grupos de trabajo por asignatura.
+   - Asignar y compartir tareas para trabajos grupales o proyectos.
+
+3. Juego y motivación
+   - Sistema de insignias o puntos al completar tareas o asistir a clases.
+   - Estadísticas de tu productividad diaria y semanal.
+
+4. Asistente de estudio
+   - Recomendaciones de estudio según tu avance y dificultad de las materias.
+   - Planificación semanal automática según tu carga de trabajo.
+   - Sugerencias de cómo repartir las horas de estudio entre asignaturas.
+
+5. Versión para docentes o coordinadores
+   - Interfaz para asesores o coordinadores académicos que revisen el avance de sus estudiantes.
+   - Generar reportes de desempeño individual y grupal.
+
+6. Aplicación móvil
+   - App propia para Android e iOS con notificaciones más rápidas.
+   - Opción de escanear horarios o documentos en PDF o imagen para que se carguen directamente.
+
+7. Más personalización
+   - Cambiar el tema de colores (modo claro, oscuro o paletas personalizadas).
+   - Plantillas de horario para periodos especiales (finales intensivos, preparación de exámenes, etc.).
